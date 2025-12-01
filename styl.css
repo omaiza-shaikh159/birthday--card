@@ -1,0 +1,52 @@
+
+
+body{ 
+    background-image: url(./sparka.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:937px ;
+height: 937px; ;
+
+}
+#cake{
+width: 300px;
+  border-radius: 5%;  
+}
+img{ 
+ filter: grayscale(); 
+}
+img:hover{ 
+ filter: none; 
+}
+
+.contenor{ 
+display:flex ;
+justify-content: center;
+margin-top:220px ;
+}
+.wish{
+ background-color: #ffe2ffc1; 
+ text-align: center;
+  border-radius:3% ; 
+   padding: 100px;
+   margin-left:15px ;
+   
+}
+h1{ 
+ font-family: cursive;
+ color:purple;
+}
+ 
+p{ 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+}
+h3{ 
+margin-top: 60px;
+}
+ 
+  
+
+ 
+
+
